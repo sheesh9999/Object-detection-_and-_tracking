@@ -16,9 +16,9 @@ The COCO dataset consists of 80 labels, including, but not limited to:
 - Kitchen and dining objects, such as wine glasses, cups, forks, knives, spoons, etc.
 …and much more!
 
-You can find a full list of what YOLO trained on the COCO dataset can detect <a href="https://github.com/pjreddie/darknet/blob/master/data/coco.names" target="_blank"><b>using this link.</b></a>
+You can find a full list of what YOLO trained on the COCO dataset can detect
 
-- yolo-coco : The YOLOv3 object detector pre-trained (on the COCO dataset) model files. These were trained by the <a href="https://pjreddie.com/darknet/yolo/" target="_blank"> <b>Darknet team.</b> </a>
+- yolo-coco : The YOLOv3 object detector pre-trained (on the COCO dataset) model files. 
 
 ## YOLO object detection in images
 
@@ -93,6 +93,4 @@ SSDs often give a nice tradeoff in terms of speed and accuracy as well.
 ## Screenshots
 <img src="https://github.com/yash42828/YOLO-object-detection-with-OpenCV/blob/master/real-time-object-detection/real_time.gif">
 
-Notice how our deep learning object detector can detect not only a person, but also the sofa and the chair next to person — all in real-time!
 
-Just follow☝️ me and Star⭐ my repository
